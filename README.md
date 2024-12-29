@@ -76,8 +76,6 @@ APPICATION
 
 │
 └── 📂 **assets/**            # 🔗 Miscellaneous asset
-
-    └── 📄 **favicon.png**    # 🌟 Website favicon
     
 
 
@@ -105,24 +103,34 @@ Project Setup:
 
 
 
-3.Installation:
+3. Installation:
 
 
-.Ensure you have a text editor (e.g., VSCode) to edit files.
-.Optionally, use version control (Git) to track changes and upload the project to GitHub.
-.Folder Structure:
+1.Ensure you have a text editor (e.g., VSCode) to edit files.
 
-.Use clear naming conventions for each file and folder.
-.Organize the files into respective directories to keep everything modular and easy to manage.
+2.Optionally, use version control (Git) to track changes and upload the project to GitHub.
 
 
 
-4.Development:
+4. Folder Structure:
+
+1.Use clear naming conventions for each file and folder.
+
+2.Organize the files into respective directories to keep everything modular and easy to manage.
 
 
-.HTML: Create your page layouts with semantic HTML.
-.CSS: Style the page with custom, responsive designs.
-.JavaScript: Write scripts for dynamic features like booking forms and carousels.
-.Images: Add high-quality images for a professional look.
-.Hosting:
+
+
+
+5. Development:
+
+
+1.HTML: Create your page layouts with semantic HTML.
+
+2.CSS: Style the page with custom, responsive designs.
+
+3.JavaScript: Write scripts for dynamic features like booking forms and carousels.
+
+4.Images: Add high-quality images for a professional look.
+
 
